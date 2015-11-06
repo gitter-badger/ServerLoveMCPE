@@ -1,4 +1,6 @@
 # ServerLoveMCPE
+
+[![Join the chat at https://gitter.im/thedeibo/ServerLoveMCPE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thedeibo/ServerLoveMCPE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The Official ServerLoveMCPE Plugin. This is a Community project, so feel free to contribute.
 
 ## The Original idea of this plugin.
